@@ -1,6 +1,6 @@
 <h1 align="left"> Hello everyone my name is Alisson!! 👋 </h1>
 
-<a> I'm a student and a young new developer. My fullname if Alisson Santos de Freitas <br>
+<a> I'm a student and a young new developer. My fullname is Alisson Santos de Freitas <br>
   i was born in 97 and right now i'm living in Santos, Brazil </a> 
  <h1>Official Education 👨‍🎓</h1>
  
