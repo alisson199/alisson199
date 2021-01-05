@@ -4,7 +4,7 @@
   i was born in 97 and right now i'm living in Santos, Brazil </a> 
  <h1>Official Education 👨‍🎓</h1>
  
- 2012-2013 | Hardware technician <br>
+ 2013-2014 | Hardware technician <br>
  2016-2017 | Programming of digital games <br>
  2019-2021 | Analysis and systems development <br>
 
